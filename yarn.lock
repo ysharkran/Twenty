@@ -48382,14 +48382,14 @@ __metadata:
   linkType: hard
 
 "react-qr-code@npm:^2.0.18":
-  version: 2.0.18
-  resolution: "react-qr-code@npm:2.0.18"
+  version: 2.0.21
+  resolution: "react-qr-code@npm:2.0.21"
   dependencies:
     prop-types: "npm:^15.8.1"
     qr.js: "npm:0.0.0"
   peerDependencies:
     react: "*"
-  checksum: 10c0/4e13b795cbb10f1dcf0e39d682bb59851e4c84010ba2be7225b2ad9d5c1ffea52d2d38f884ee26235b7002b8ca99e83b805f55e877663c39d67496764d975cf1
+  checksum: 10c0/db3787d0d65ff095a3ae642bdf88024b052235410fe64edb70ad90d3dca57a3b051827e0380da82fb6f29818d5c2b2855475a6082eb4445925866db935e77788
   languageName: node
   linkType: hard
 
